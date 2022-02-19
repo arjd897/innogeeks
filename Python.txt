@@ -1,0 +1,10 @@
+What will be the output of"search".find("S")?
+-1
+In which year python was discovered?
+1989
+In which language is python written?
+C
+What is the extension of python file?
+.py
+Which character is used to make single line comment in python?
+#
