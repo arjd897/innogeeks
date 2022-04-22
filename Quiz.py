@@ -142,7 +142,7 @@ time.sleep(1.5)
 TOTAL_MARKS=marks_python+marks_maths+marks_physics
 print("Total Marks = ",TOTAL_MARKS,"/15")
 
-if TOTAL_MARKS<8:
+if TOTAL_MARKS>8:
     print('CONGRATULATIONS,YOU ARE PASSED IN THE QUIZ')
 else:
     print('SORRY,YOU WERE NOT ABLE TO QUALIFY')
